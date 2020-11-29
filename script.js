@@ -44,7 +44,7 @@ this.hitTest = function(x1, y1, w1, h1, x2, y2, w2, h2){return !(x1 + w1 < x2 ||
       //xRange: this.rand(5, 30),
       //yRange: this.rand(5, 25),
 	  xRange: this.rand(5, 50),
-      yRange: this.rand(5, 35),
+      yRange: this.rand(10, 60),
       path: [{
         x: x,
         y: y	
